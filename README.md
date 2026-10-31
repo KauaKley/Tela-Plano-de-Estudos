@@ -6,7 +6,8 @@ Aplicação React simples para organizar atividades de estudo. Trabalho de React
 
 1. Crie um repositório no GitHub e envie os arquivos deste projeto.
 2. No repositório, clique em **Code > Codespaces > Create codespace on main**.
-3. Abra o terminal do Codespaces e execute:
+3. Entre na pasta certa para rodar usando o: cd controle-estudos
+4. Abra o terminal do Codespaces e execute:
 
 ```bash
 npm install
